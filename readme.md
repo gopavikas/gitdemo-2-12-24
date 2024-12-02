@@ -23,3 +23,8 @@
 12.git tag = it will show the tag list
 
 13.git tag -a V1.0 -m "my first tag" = it will create the tag
+
+14.git push origin V1.0 = command used to push the tag to remote repo.
+
+15.git clone https://github.com/docker-library/official-images.git = it will download from git remote repo to local repo.
+
