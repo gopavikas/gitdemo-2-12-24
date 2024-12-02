@@ -20,4 +20,6 @@
 
 11.git push -u origin main = this will push file from local to remote repo
 
+12.git tag = it will show the tag list
 
+13.git tag -a V1.0 -m "my first tag" = it will create the tag
