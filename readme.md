@@ -28,3 +28,5 @@
 
 15.git clone https://github.com/docker-library/official-images.git = it will download from git remote repo to local repo.
 
+16.git remote -v = it will show the remote repo "origin" details.
+
