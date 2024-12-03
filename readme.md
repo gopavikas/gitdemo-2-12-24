@@ -30,3 +30,7 @@
 
 16.git remote -v = it will show the remote repo "origin" details.
 
+17.git checkout -b feature_1 = it will create a new brach feature_1
+
+18.git branch = it will list out all the branches in that repo
+
