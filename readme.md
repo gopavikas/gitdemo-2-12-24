@@ -44,4 +44,4 @@
 
 23.git branch -d feature_2 = it is used to delete the branch feature_2
 
-24.
+24.Chucksum = it is a commit id create when we commit the file.
