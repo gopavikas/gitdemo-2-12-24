@@ -34,3 +34,14 @@
 
 18.git branch = it will list out all the branches in that repo
 
+19.git swith main = it is used to switch between the branches.
+
+20.git branch --all = it will list out all the branches in remote and local repo.
+
+21.git switch -c feature_2 = it will create a new branch feature_2, -c=create.
+
+22.git switch - = it will switch back to previous branch.
+
+23.git branch -d feature_2 = it is used to delete the branch feature_2
+
+24.
